@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "339491764488",
+    "project_id": "test1-9cce1",
+    "storage_bucket": "test1-9cce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339491764488:android:6dff93c44165fec47094bd",
+        "android_client_info": {
+          "package_name": "com.garuda127.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339491764488-ejfleiskt0g3d51tu3m31mnjs1medctc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzdqFNAcuSnLQktH7n-3F80Z7GDnvLuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339491764488-ejfleiskt0g3d51tu3m31mnjs1medctc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339491764488:android:1cf9b4156034e88e7094bd",
+        "android_client_info": {
+          "package_name": "com.garuda127.firebasemessagin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339491764488-ejfleiskt0g3d51tu3m31mnjs1medctc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzdqFNAcuSnLQktH7n-3F80Z7GDnvLuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339491764488-ejfleiskt0g3d51tu3m31mnjs1medctc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
